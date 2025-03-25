@@ -36,3 +36,7 @@ We apply our method on the SWaT and WADI datasets in the paper, however, we didn
 
 In this repository we used kdd cup 1999 dataset as an example (please unpack the data.7z file in the data folder before run RGAN.py and AD.py). You can also down load the original data at http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
+## Acknowledgment
+
+We sincerely thank the authors of the original MAD-GANs repository for publicly providing their source code. This repository contains our adaptation of the original MAD-GAN implementation upgraded to be compatible with TensorFlow 2.x.
+
