@@ -8,12 +8,6 @@ MAD-GAN is a refined version of GAN-AD at _[Anomaly Detection with Generative Ad
 
 (We are still working on this topic, will upload the completed version later...)
 
-## Overview
-
-We used generative adversarial networks (GANs) to do anomaly detection for time series data.
-The GAN framework was **R**GAN, whihc was taken from the paper, _[Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/abs/1706.02633).
-Please refer to https://github.com/ratschlab/RGAN for the original code.
-
 ## Quickstart
 
 - Python3
@@ -39,4 +33,5 @@ In this repository we used kdd cup 1999 dataset as an example (please unpack the
 ## Acknowledgment
 
 We sincerely thank the authors of the original MAD-GANs repository for publicly providing their source code. This repository contains our adaptation of the original MAD-GAN implementation upgraded to be compatible with TensorFlow 2.x.
+original code : https://github.com/LiDan456/MAD-GANs
 
