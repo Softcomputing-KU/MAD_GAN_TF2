@@ -6,7 +6,6 @@ This repository contains code for the paper, _[MAD-GAN: Multivariate Anomaly Det
 
 MAD-GAN is a refined version of GAN-AD at _[Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/pdf/1809.04758.pdf)_ The code can be found at https://github.com/LiDan456/GAN-AD
 
-(We are still working on this topic, will upload the completed version later...)
 
 ## Quickstart
 
