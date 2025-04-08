@@ -1,11 +1,8 @@
 # -- Multivariate Anomaly Detection for Time Series Data with GANs -- #
 
-# MAD-GAN
+## MAD-GAN
 
-This repository contains code for the paper, _[MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks](https://arxiv.org/pdf/1901.04997.pdf)_, by Dan Li, Dacheng Chen, Jonathan Goh, and See-Kiong Ng.
-
-MAD-GAN is a refined version of GAN-AD at _[Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/pdf/1809.04758.pdf)_ The code can be found at https://github.com/LiDan456/GAN-AD
-
+This repository contains tf 2.x code for the paper, _[MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks](https://arxiv.org/pdf/1901.04997.pdf)_, by Dan Li, Dacheng Chen, Jonathan Goh, and See-Kiong Ng.
 
 ## Quickstart
 
@@ -33,4 +30,4 @@ In this repository we used kdd cup 1999 dataset as an example (please unpack the
 
 We sincerely thank the authors of the original MAD-GANs repository for publicly providing their source code. This repository contains our adaptation of the original MAD-GAN implementation upgraded to be compatible with TensorFlow 2.x.
 original code : https://github.com/LiDan456/MAD-GANs
-
+MAD-GAN is a refined version of GAN-AD at _[Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/pdf/1809.04758.pdf)_ The code can be found at https://github.com/LiDan456/GAN-AD
