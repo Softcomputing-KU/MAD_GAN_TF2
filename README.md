@@ -2,7 +2,7 @@
 
 ## MAD-GAN
 
-This repository contains tf 2.x code for the paper, _[MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks](https://arxiv.org/pdf/1901.04997.pdf)_, by Dan Li, Dacheng Chen, Jonathan Goh, and See-Kiong Ng.
+This repository contains tf 2.x code for the paper, _[MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks](https://arxiv.org/pdf/1901.04997.pdf)
 
 ## Quickstart
 
